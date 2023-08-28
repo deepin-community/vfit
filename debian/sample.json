@@ -1,0 +1,88 @@
+[
+  {
+    "family": "Placeholder",
+    "axes": {
+      "wght": 350.0,
+      "wdth": 85.0
+    },
+    "prefFamily": "Placeholder",
+    "prefSubfamily": "Regular",
+    "weightOverride": 400,
+    "widthOverride": 5
+  },
+  {
+    "family": "Placeholder Medium",
+    "axes": {
+      "wght": 450.0,
+      "wdth": 85.0
+    },
+    "prefFamily": "Placeholder",
+    "prefSubfamily": "Medium",
+    "weightOverride": 500,
+    "widthOverride": 5
+  },
+  {
+    "family": "Placeholder SemiBold",
+    "axes": {
+      "wght": 550.0,
+      "wdth": 85.0
+    },
+    "prefFamily": "Placeholder",
+    "prefSubfamily": "SemiBold",
+    "weightOverride": 600,
+    "widthOverride": 5
+  },
+  {
+    "family": "Placeholder",
+    "subfamily": "Bold",
+    "axes": {
+      "wght": 650.0,
+      "wdth": 85.0
+    },
+    "prefFamily": "Placeholder",
+    "prefSubfamily": "Bold",
+    "weightOverride": 700,
+    "widthOverride": 5
+  },
+  {
+    "family": "Placeholder Extended",
+    "axes": {
+      "wght": 350.0,
+      "wdth": 110.0
+    },
+    "prefFamily": "Placeholder",
+    "prefSubfamily": "Extended Regular",
+    "weightOverride": 400
+  },
+  {
+    "family": "Placeholder Extended Medium",
+    "axes": {
+      "wght": 450.0,
+      "wdth": 110.0
+    },
+    "prefFamily": "Placeholder",
+    "prefSubfamily": "Extended Medium",
+    "weightOverride": 500
+  },
+  {
+    "family": "Placeholder Extended SemiBold",
+    "axes": {
+      "wght": 550.0,
+      "wdth": 110.0
+    },
+    "prefFamily": "Placeholder",
+    "prefSubfamily": "Extended SemiBold",
+    "weightOverride": 600
+  },
+  {
+    "family": "Placeholder Extended",
+    "subfamily": "Bold",
+    "axes": {
+      "wght": 650.0,
+      "wdth": 110.0
+    },
+    "prefFamily": "Placeholder",
+    "prefSubfamily": "Extended Bold",
+    "weightOverride": 700
+  }
+]

@@ -1,3 +1,26 @@
+Metadata-Version: 2.1
+Name: vfit
+Version: 2.1.0
+Summary: Generate backwards-compatible, static instances of variable fonts
+Home-page: https://github.com/jonpalmisc/vfit
+License: MIT
+Keywords: fonts,fonttools
+Author: Jon Palmisciano
+Author-email: jp@jonpalmisc.com
+Maintainer: Jon Palmisciano
+Maintainer-email: jp@jonpalmisc.com
+Requires-Python: >=3.6,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Dist: brotli (>=1.0.7,<2.0.0)
+Requires-Dist: fonttools (>=4.13.0,<5.0.0)
+Requires-Dist: tqdm (>=4.48.0,<5.0.0)
+Project-URL: Repository, https://github.com/jonpalmisc/vfit
+Description-Content-Type: text/markdown
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/jonpalmisc/vfit/master/vfit-logo.png">
 </div>
@@ -62,3 +85,4 @@ Copyright &copy; 2020 Jon Palmisciano
 
 VFIT is available under the MIT License. See [LICENSE.txt](LICENSE.txt) for
 more information.
+
