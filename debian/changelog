@@ -1,5 +1,19 @@
-template-repository (1.0-1) unstable; urgency=medium
+vfit (2.1.0-3) unstable; urgency=medium
 
-  * Initial release
+  * d/control:
+    - add to fonts team.
+    - set Vcs fields.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Gürkan Myczko <tar@debian.org>  Tue, 25 Jan 2022 11:53:27 +0100
+
+vfit (2.1.0-2) unstable; urgency=medium
+
+  * Source only upload.
+
+ -- Gürkan Myczko <tar@debian.org>  Fri, 31 Dec 2021 13:02:11 +0100
+
+vfit (2.1.0-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #1001777)
+
+ -- Gürkan Myczko <tar@debian.org>  Wed, 15 Dec 2021 09:08:04 +0100
